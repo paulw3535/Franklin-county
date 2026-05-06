@@ -2,8 +2,8 @@ name: Scrape & Deploy
 
 on:
   schedule:
-    - cron: "0 7 * * *"   # 7 AM UTC daily (≈ 3 AM ET)
-  workflow_dispatch:        # manual trigger
+    - cron: "0 7 * * *"
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -17,7 +17,8 @@ concurrency:
 jobs:
   scrape:
     runs-on: ubuntu-22.04
-    timeout-minutes: 30
+    timeout-minutes: 60
+
     env:
       LOOKBACK_DAYS: "7"
 
@@ -36,9 +37,6 @@ jobs:
         run: |
           pip install --upgrade pip
           pip install -r scraper/requirements.txt
-
-      - name: Install Playwright browsers
-        run: python -m playwright install --with-deps chromium
 
       - name: Run scraper
         run: python scraper/fetch.py
@@ -61,7 +59,7 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
         with:
-          ref: main          # make sure we get the just-committed records.json
+          ref: main
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
