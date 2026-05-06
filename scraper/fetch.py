@@ -77,7 +77,7 @@ DOC_SEARCH_TERMS = {
 
 REPO_ROOT   = Path(__file__).resolve().parent.parent
 OUTPUT_DIRS = [REPO_ROOT / "dashboard", REPO_ROOT / "data"]
-
+REQUEST_TIMEOUT = 10
 HEADERS = {
     "User-Agent":      "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
                        "(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
@@ -95,7 +95,7 @@ def make_session() -> requests.Session:
     s = requests.Session()
     s.headers.update(HEADERS)
     try:
-        s.get(SEARCH_BASE, timeout=20)
+        s.get(SEARCH_BASE, timeout=10)
         log.info("Session established with recorder portal")
     except Exception as e:
         log.warning("Could not pre-load session: %s", e)
@@ -105,7 +105,7 @@ def make_session() -> requests.Session:
 def _retry_get(session, url, params=None, retries=3, **kwargs) -> Optional[requests.Response]:
     for attempt in range(1, retries + 1):
         try:
-            r = session.get(url, params=params, timeout=30, **kwargs)
+            r = session.get(url, params=params, timeout=10, **kwargs)
             if r.status_code == 200:
                 return r
             log.warning("HTTP %d on attempt %d: %s", r.status_code, attempt, url)
