@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-05-05T20:50:55.004109Z",
-  "source": "Franklin County Clerk of Courts",
+  "fetched_at": "2026-05-06T11:22:31.836575Z",
+  "source": "Franklin County Auditor (ArcGIS + Conveyances)",
   "date_range": {
-    "from": "04/28/2026",
-    "to": "05/05/2026"
+    "from": "04/29/2026",
+    "to": "05/06/2026"
   },
   "total": 0,
   "with_address": 0,
