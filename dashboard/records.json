@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-06-28T09:55:05.974626Z",
+  "fetched_at": "2026-06-29T11:54:16.169927Z",
   "source": "Franklin County Auditor GIS",
   "date_range": {
-    "from": "06/21/2026",
-    "to": "06/28/2026"
+    "from": "06/22/2026",
+    "to": "06/29/2026"
   },
   "total": 943,
   "with_address": 943,
