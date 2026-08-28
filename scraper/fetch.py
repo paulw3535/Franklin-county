@@ -98,16 +98,17 @@ def get_json(session, url, params=None, retries=3) -> Optional[dict]:
 # GIS parcel query
 # ══════════════════════════════════════════════════════════════════════════════
 
-# Exact field names from the confirmed layer schema
+# FIX: Updated field names to match current live GIS layer schema
 GIS_FIELDS = (
     "OBJECTID,PARCELID,SITEADDRESS,ZIPCD,"
-    "OWNERNME1,OWNERNME2,"
+    "OWNERNME1,OWNERNME2,OWNERNME3,"
     "PSTLADDRES,PSTLCITYSTZIP,"
     "MAILNME1,MAILNME2,"
+    "PSTLNME1,PSTLNME2,"
     "SALEDATE,SALEPRICE,"
     "OWNEROCCUPIED,HOMSTD,RENTAL,"
-    "CLASSCD,CLASSDSCRP,USECD,"
-    "PRPRTYDSCRP,PRPRTYDSCRP2"
+    "CLASSCD,CLASSSDSCRP,"
+    "PRPRTYDSCRP,PRPRTYDSCRP2,PRPRTYDSCRP3"
 )
 
 
@@ -163,8 +164,12 @@ def fetch_gis_parcels(session: requests.Session,
             owner2     = str(a.get("OWNERNME2", "") or "").strip()
             site_addr  = str(a.get("SITEADDRESS", "") or "").strip()
             zipcd      = str(a.get("ZIPCD", "") or "").strip()
-            mail_addr  = str(a.get("PSTLADDRES", a.get("MAILNME2", "")) or "").strip()
-            mail_csz   = str(a.get("PSTLCITYSTZIP", a.get("MAILNME1","")) or "").strip()
+
+            # FIX: MAILNME1 = street address, MAILNME2 = city/state/zip
+            # Previously these fallbacks were swapped, causing blank addresses
+            mail_addr  = str(a.get("PSTLADDRES", a.get("MAILNME1", "")) or "").strip()
+            mail_csz   = str(a.get("PSTLCITYSTZIP", a.get("MAILNME2", "")) or "").strip()
+
             sale_date  = _epoch_to_date(a.get("SALEDATE"))
             sale_price = float(a.get("SALEPRICE") or 0)
             parcel_id  = str(a.get("PARCELID", "") or "").strip()
@@ -175,6 +180,7 @@ def fetch_gis_parcels(session: requests.Session,
             legal      = " ".join(filter(None, [
                 str(a.get("PRPRTYDSCRP","") or ""),
                 str(a.get("PRPRTYDSCRP2","") or ""),
+                str(a.get("PRPRTYDSCRP3","") or ""),
             ]))[:200]
 
             # Parse mailing city/state/zip from combined field "CITY ST ZIP"
