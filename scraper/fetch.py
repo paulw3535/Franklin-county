@@ -98,17 +98,15 @@ def get_json(session, url, params=None, retries=3) -> Optional[dict]:
 # GIS parcel query
 # ══════════════════════════════════════════════════════════════════════════════
 
-# FIX: Updated field names to match current live GIS layer schema
 GIS_FIELDS = (
     "OBJECTID,PARCELID,SITEADDRESS,ZIPCD,"
-    "OWNERNME1,OWNERNME2,OWNERNME3,"
+    "OWNERNME1,OWNERNME2,"
     "PSTLADDRES,PSTLCITYSTZIP,"
     "MAILNME1,MAILNME2,"
-    "PSTLNME1,PSTLNME2,"
     "SALEDATE,SALEPRICE,"
     "OWNEROCCUPIED,HOMSTD,RENTAL,"
-    "CLASSCD,CLASSSDSCRP,"
-    "PRPRTYDSCRP,PRPRTYDSCRP2,PRPRTYDSCRP3"
+    "CLASSCD,CLASSDSCRP,USECD,"
+    "PRPRTYDSCRP,PRPRTYDSCRP2"
 )
 
 
@@ -147,11 +145,12 @@ def fetch_gis_parcels(session: requests.Session,
         }
         data = get_json(session, GIS_QUERY, params=params)
         if not data:
-            log.warning("GIS query returned no data at offset %d", offset)
+            log.error("GIS query returned no data at offset %d — check field names or API availability", offset)
             break
 
         if "error" in data:
-            log.error("GIS API error: %s", data["error"])
+            log.error("GIS API error (bad field names?): %s", data["error"])
+            log.error("Requested fields: %s", GIS_FIELDS)
             break
 
         features = data.get("features", [])
@@ -165,8 +164,6 @@ def fetch_gis_parcels(session: requests.Session,
             site_addr  = str(a.get("SITEADDRESS", "") or "").strip()
             zipcd      = str(a.get("ZIPCD", "") or "").strip()
 
-            # FIX: MAILNME1 = street address, MAILNME2 = city/state/zip
-            # Previously these fallbacks were swapped, causing blank addresses
             mail_addr  = str(a.get("PSTLADDRES", a.get("MAILNME1", "")) or "").strip()
             mail_csz   = str(a.get("PSTLCITYSTZIP", a.get("MAILNME2", "")) or "").strip()
 
@@ -180,7 +177,6 @@ def fetch_gis_parcels(session: requests.Session,
             legal      = " ".join(filter(None, [
                 str(a.get("PRPRTYDSCRP","") or ""),
                 str(a.get("PRPRTYDSCRP2","") or ""),
-                str(a.get("PRPRTYDSCRP3","") or ""),
             ]))[:200]
 
             # Parse mailing city/state/zip from combined field "CITY ST ZIP"
