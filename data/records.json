@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-09-15T12:23:42.974179Z",
+  "fetched_at": "2026-09-16T12:21:42.235185Z",
   "source": "Franklin County Auditor GIS",
   "date_range": {
-    "from": "09/08/2026",
-    "to": "09/15/2026"
+    "from": "09/09/2026",
+    "to": "09/16/2026"
   },
-  "total": 711,
-  "with_address": 711,
+  "total": 627,
+  "with_address": 627,
   "records": [
     {
       "doc_num": "040-003527",
@@ -893,32 +893,6 @@
       "score": 93
     },
     {
-      "doc_num": "010-081187",
-      "doc_type": "TAX_DEED",
-      "filed": "09/08/2026",
-      "cat": "tax_distress",
-      "cat_label": "Possible Tax Deed ($0 / $100)",
-      "owner": "MEADOW RENTAL PROPERTIES LLC",
-      "grantee": "",
-      "amount": "",
-      "legal": "1400 MEADOW RD BOULEVARD HTS",
-      "prop_address": "1400 MEADOW RD",
-      "prop_city": "Columbus",
-      "prop_state": "OH",
-      "prop_zip": "43212",
-      "mail_address": "PO BOX 9202 COPPELL TX 75019-9208",
-      "mail_city": "Coppell",
-      "mail_state": "TX",
-      "mail_zip": "75019",
-      "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=010-081187&UseSearch=no",
-      "flags": [
-        "Possible tax deed",
-        "LLC / corp owner",
-        "New this week"
-      ],
-      "score": 93
-    },
-    {
       "doc_num": "010-011437",
       "doc_type": "TAX_DEED",
       "filed": "09/14/2026",
@@ -1748,31 +1722,6 @@
       "score": 83
     },
     {
-      "doc_num": "040-014486",
-      "doc_type": "TAX_DEED",
-      "filed": "09/08/2026",
-      "cat": "tax_distress",
-      "cat_label": "Possible Tax Deed ($0 / $100)",
-      "owner": "CLAYPOOL MARY T",
-      "grantee": "",
-      "amount": "",
-      "legal": "ENCLAVE AT CLAYBROOKE CROSSING CONDOMINIUM",
-      "prop_address": "5037 BARKSTONE DR 22",
-      "prop_city": "Columbus",
-      "prop_state": "OH",
-      "prop_zip": "43123",
-      "mail_address": "3252 BELSTEAD DR GROVE CITY OH 43123-8225",
-      "mail_city": "Grove City",
-      "mail_state": "OH",
-      "mail_zip": "43123",
-      "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=040-014486&UseSearch=no",
-      "flags": [
-        "Possible tax deed",
-        "New this week"
-      ],
-      "score": 83
-    },
-    {
       "doc_num": "040-013884",
       "doc_type": "TAX_DEED",
       "filed": "09/10/2026",
@@ -1791,31 +1740,6 @@
       "mail_state": "TX",
       "mail_zip": "75019",
       "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=040-013884&UseSearch=no",
-      "flags": [
-        "Possible tax deed",
-        "New this week"
-      ],
-      "score": 83
-    },
-    {
-      "doc_num": "040-002262",
-      "doc_type": "TAX_DEED",
-      "filed": "09/08/2026",
-      "cat": "tax_distress",
-      "cat_label": "Possible Tax Deed ($0 / $100)",
-      "owner": "BELL VIRGINIA K TTEE",
-      "grantee": "",
-      "amount": "",
-      "legal": "2638 KENNY LANE GROVE CITY HTS",
-      "prop_address": "2638 KENNY LN",
-      "prop_city": "Columbus",
-      "prop_state": "OH",
-      "prop_zip": "43123",
-      "mail_address": "2575 SABRA CT SE LANCASTER OH 43130-9778",
-      "mail_city": "Lancaster",
-      "mail_state": "OH",
-      "mail_zip": "43130",
-      "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=040-002262&UseSearch=no",
       "flags": [
         "Possible tax deed",
         "New this week"
@@ -2098,31 +2022,6 @@
       "score": 83
     },
     {
-      "doc_num": "570-160176",
-      "doc_type": "TAX_DEED",
-      "filed": "09/08/2026",
-      "cat": "tax_distress",
-      "cat_label": "Possible Tax Deed ($0 / $100)",
-      "owner": "BELL VIRGINIA K TTEE",
-      "grantee": "",
-      "amount": "",
-      "legal": "2525 RED ROCK BLVD STONERIDGE 1",
-      "prop_address": "2525 RED ROCK BL",
-      "prop_city": "Columbus",
-      "prop_state": "OH",
-      "prop_zip": "43123",
-      "mail_address": "2575 SABRA CT SE LANCASTER OH 43130-9778",
-      "mail_city": "Lancaster",
-      "mail_state": "OH",
-      "mail_zip": "43130",
-      "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=570-160176&UseSearch=no",
-      "flags": [
-        "Possible tax deed",
-        "New this week"
-      ],
-      "score": 83
-    },
-    {
       "doc_num": "570-152065",
       "doc_type": "TAX_DEED",
       "filed": "09/11/2026",
@@ -2241,31 +2140,6 @@
       "mail_state": "CA",
       "mail_zip": "91768",
       "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=240-003409&UseSearch=no",
-      "flags": [
-        "Possible tax deed",
-        "New this week"
-      ],
-      "score": 83
-    },
-    {
-      "doc_num": "010-161330",
-      "doc_type": "TAX_DEED",
-      "filed": "09/08/2026",
-      "cat": "tax_distress",
-      "cat_label": "Possible Tax Deed ($0 / $100)",
-      "owner": "PAISHON EILEEN M; PAISHON JAMES T",
-      "grantee": "",
-      "amount": "",
-      "legal": "WOODBROOK CR N WOODBROOK VILLAGE",
-      "prop_address": "2300 N WOODBROOK D CR UNIT D",
-      "prop_city": "Columbus",
-      "prop_state": "OH",
-      "prop_zip": "43223",
-      "mail_address": "2300 WOODBROOK CIR N APT D COLUMBUS OH 43223-3163",
-      "mail_city": "Columbus",
-      "mail_state": "OH",
-      "mail_zip": "43223",
-      "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=010-161330&UseSearch=no",
       "flags": [
         "Possible tax deed",
         "New this week"
@@ -2641,56 +2515,6 @@
       "mail_state": "OH",
       "mail_zip": "43223",
       "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=010-043779&UseSearch=no",
-      "flags": [
-        "Possible tax deed",
-        "New this week"
-      ],
-      "score": 83
-    },
-    {
-      "doc_num": "010-033619",
-      "doc_type": "TAX_DEED",
-      "filed": "09/08/2026",
-      "cat": "tax_distress",
-      "cat_label": "Possible Tax Deed ($0 / $100)",
-      "owner": "KATHARY CAROL R TTEE",
-      "grantee": "",
-      "amount": "",
-      "legal": "131 S PRINCETON AVE WEST HIGH SCHOOL",
-      "prop_address": "131 S PRINCETON AVE",
-      "prop_city": "Columbus",
-      "prop_state": "OH",
-      "prop_zip": "43222",
-      "mail_address": "PO BOX 21516 COLUMBUS OH 43221-0516",
-      "mail_city": "Columbus",
-      "mail_state": "OH",
-      "mail_zip": "43221",
-      "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=010-033619&UseSearch=no",
-      "flags": [
-        "Possible tax deed",
-        "New this week"
-      ],
-      "score": 83
-    },
-    {
-      "doc_num": "010-023542",
-      "doc_type": "TAX_DEED",
-      "filed": "09/08/2026",
-      "cat": "tax_distress",
-      "cat_label": "Possible Tax Deed ($0 / $100)",
-      "owner": "KATHARY CAROL R TTEE",
-      "grantee": "",
-      "amount": "",
-      "legal": "147 N GUILFORD AVE GUILFORD PARK",
-      "prop_address": "147 GUILFORD AVE",
-      "prop_city": "Columbus",
-      "prop_state": "OH",
-      "prop_zip": "43222",
-      "mail_address": "PO BOX 21516 COLUMBUS OH 43221-0516",
-      "mail_city": "Columbus",
-      "mail_state": "OH",
-      "mail_zip": "43221",
-      "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=010-023542&UseSearch=no",
       "flags": [
         "Possible tax deed",
         "New this week"
@@ -3123,31 +2947,6 @@
       "score": 83
     },
     {
-      "doc_num": "010-030796",
-      "doc_type": "TAX_DEED",
-      "filed": "09/08/2026",
-      "cat": "tax_distress",
-      "cat_label": "Possible Tax Deed ($0 / $100)",
-      "owner": "BAKER ALLEN R",
-      "grantee": "",
-      "amount": "",
-      "legal": "1049-1049 1/2 E LONG JOYCE & SHELDON",
-      "prop_address": "1049 E LONG ST",
-      "prop_city": "Columbus",
-      "prop_state": "OH",
-      "prop_zip": "43203",
-      "mail_address": "108 N TWENTIETH ST COLUMBUS OH 43203-1967",
-      "mail_city": "Columbus",
-      "mail_state": "OH",
-      "mail_zip": "43203",
-      "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=010-030796&UseSearch=no",
-      "flags": [
-        "Possible tax deed",
-        "New this week"
-      ],
-      "score": 83
-    },
-    {
       "doc_num": "010-052101",
       "doc_type": "TAX_DEED",
       "filed": "09/10/2026",
@@ -3191,56 +2990,6 @@
       "mail_state": "OH",
       "mail_zip": "43207",
       "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=010-128947&UseSearch=no",
-      "flags": [
-        "Possible tax deed",
-        "New this week"
-      ],
-      "score": 83
-    },
-    {
-      "doc_num": "010-088024",
-      "doc_type": "TAX_DEED",
-      "filed": "09/08/2026",
-      "cat": "tax_distress",
-      "cat_label": "Possible Tax Deed ($0 / $100)",
-      "owner": "KIRK DENISE",
-      "grantee": "",
-      "amount": "",
-      "legal": "COLLEGE AVE BERWICK",
-      "prop_address": "1281 COLLEGE AVE",
-      "prop_city": "Columbus",
-      "prop_state": "OH",
-      "prop_zip": "43209",
-      "mail_address": "1281 COLLEGE AVE COLUMBUS OH 43209-2883",
-      "mail_city": "Columbus",
-      "mail_state": "OH",
-      "mail_zip": "43209",
-      "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=010-088024&UseSearch=no",
-      "flags": [
-        "Possible tax deed",
-        "New this week"
-      ],
-      "score": 83
-    },
-    {
-      "doc_num": "020-001900",
-      "doc_type": "TAX_DEED",
-      "filed": "09/08/2026",
-      "cat": "tax_distress",
-      "cat_label": "Possible Tax Deed ($0 / $100)",
-      "owner": "SKESTOS JUSTINE A TTEE",
-      "grantee": "",
-      "amount": "",
-      "legal": "31 COLUMBIA AVE BULLITT PARK AMD",
-      "prop_address": "31 S COLUMBIA AVE",
-      "prop_city": "Columbus",
-      "prop_state": "OH",
-      "prop_zip": "43209",
-      "mail_address": "31 S COLUMBIA AVE COLUMBUS OH 43209-1621",
-      "mail_city": "Columbus",
-      "mail_state": "OH",
-      "mail_zip": "43209",
-      "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=020-001900&UseSearch=no",
       "flags": [
         "Possible tax deed",
         "New this week"
@@ -3416,31 +3165,6 @@
       "mail_state": "TX",
       "mail_zip": "75019",
       "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=010-127516&UseSearch=no",
-      "flags": [
-        "Possible tax deed",
-        "New this week"
-      ],
-      "score": 83
-    },
-    {
-      "doc_num": "090-000689",
-      "doc_type": "TAX_DEED",
-      "filed": "09/08/2026",
-      "cat": "tax_distress",
-      "cat_label": "Possible Tax Deed ($0 / $100)",
-      "owner": "BELL VIRGINIA K TTEE",
-      "grantee": "",
-      "amount": "",
-      "legal": "MCALLISTER AVE JAEGER MANOR LOT 6",
-      "prop_address": "4136 MCALLISTER AVE",
-      "prop_city": "Columbus",
-      "prop_state": "OH",
-      "prop_zip": "43227",
-      "mail_address": "2575 SABRA CT SE LANCASTER OH 43130-9778",
-      "mail_city": "Lancaster",
-      "mail_state": "OH",
-      "mail_zip": "43130",
-      "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=090-000689&UseSearch=no",
       "flags": [
         "Possible tax deed",
         "New this week"
@@ -3816,31 +3540,6 @@
       "mail_state": "OH",
       "mail_zip": "43212",
       "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=130-001697&UseSearch=no",
-      "flags": [
-        "Possible tax deed",
-        "New this week"
-      ],
-      "score": 83
-    },
-    {
-      "doc_num": "200-001308",
-      "doc_type": "TAX_DEED",
-      "filed": "09/08/2026",
-      "cat": "tax_distress",
-      "cat_label": "Possible Tax Deed ($0 / $100)",
-      "owner": "GOINGS ROSE M",
-      "grantee": "",
-      "amount": "",
-      "legal": "DUBLIN RD DOLPH HIL ACRES",
-      "prop_address": "3524 DUBLIN RD",
-      "prop_city": "Columbus",
-      "prop_state": "OH",
-      "prop_zip": "43221",
-      "mail_address": "3524 DUBLIN RD HILLIARD OH 43026-8748",
-      "mail_city": "Hilliard",
-      "mail_state": "OH",
-      "mail_zip": "43026",
-      "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=200-001308&UseSearch=no",
       "flags": [
         "Possible tax deed",
         "New this week"
@@ -4248,31 +3947,6 @@
       "score": 83
     },
     {
-      "doc_num": "590-263894",
-      "doc_type": "TAX_DEED",
-      "filed": "09/08/2026",
-      "cat": "tax_distress",
-      "cat_label": "Possible Tax Deed ($0 / $100)",
-      "owner": "DECKER KATHERINE E",
-      "grantee": "",
-      "amount": "",
-      "legal": "HAYDEN FALLS CONDOMINIUM NO 1 18TH AMD",
-      "prop_address": "5717 NEW GATE RD 33",
-      "prop_city": "Columbus",
-      "prop_state": "OH",
-      "prop_zip": "43017",
-      "mail_address": "5717 NEWGATE RD DUBLIN OH 43017-2207",
-      "mail_city": "Dublin",
-      "mail_state": "OH",
-      "mail_zip": "43017",
-      "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=590-263894&UseSearch=no",
-      "flags": [
-        "Possible tax deed",
-        "New this week"
-      ],
-      "score": 83
-    },
-    {
       "doc_num": "590-173654",
       "doc_type": "TAX_DEED",
       "filed": "09/14/2026",
@@ -4623,31 +4297,6 @@
       "score": 83
     },
     {
-      "doc_num": "010-224140",
-      "doc_type": "TAX_DEED",
-      "filed": "09/08/2026",
-      "cat": "tax_distress",
-      "cat_label": "Possible Tax Deed ($0 / $100)",
-      "owner": "EILAND DUANE M; EILAND LILLIE P",
-      "grantee": "",
-      "amount": "",
-      "legal": "CAPITOL VIEW ESTATES",
-      "prop_address": "1010 CAPITOL VIEW PL",
-      "prop_city": "Columbus",
-      "prop_state": "OH",
-      "prop_zip": "43203",
-      "mail_address": "1010 CAPITOL VIEW PL COLUMBUS OH 43203-1040",
-      "mail_city": "Columbus",
-      "mail_state": "OH",
-      "mail_zip": "43203",
-      "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=010-224140&UseSearch=no",
-      "flags": [
-        "Possible tax deed",
-        "New this week"
-      ],
-      "score": 83
-    },
-    {
       "doc_num": "010-021114",
       "doc_type": "TAX_DEED",
       "filed": "09/10/2026",
@@ -4723,31 +4372,6 @@
       "score": 83
     },
     {
-      "doc_num": "010-052678",
-      "doc_type": "TAX_DEED",
-      "filed": "09/08/2026",
-      "cat": "tax_distress",
-      "cat_label": "Possible Tax Deed ($0 / $100)",
-      "owner": "CENTRAL OHIO COMMUNITY IMPROVEMENT CORPORATION",
-      "grantee": "",
-      "amount": "",
-      "legal": "1700 CLEVELAND AVE LOUIS HTS",
-      "prop_address": "1700 N CLEVELAND AVE",
-      "prop_city": "Columbus",
-      "prop_state": "OH",
-      "prop_zip": "43211",
-      "mail_address": "845 PARSONS AVENUE COLUMBUS OH 43206-2396",
-      "mail_city": "Columbus",
-      "mail_state": "OH",
-      "mail_zip": "43206",
-      "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=010-052678&UseSearch=no",
-      "flags": [
-        "Possible tax deed",
-        "New this week"
-      ],
-      "score": 83
-    },
-    {
       "doc_num": "010-050332",
       "doc_type": "TAX_DEED",
       "filed": "09/09/2026",
@@ -4766,31 +4390,6 @@
       "mail_state": "OH",
       "mail_zip": "43219",
       "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=010-050332&UseSearch=no",
-      "flags": [
-        "Possible tax deed",
-        "New this week"
-      ],
-      "score": 83
-    },
-    {
-      "doc_num": "020-003386",
-      "doc_type": "TAX_DEED",
-      "filed": "09/08/2026",
-      "cat": "tax_distress",
-      "cat_label": "Possible Tax Deed ($0 / $100)",
-      "owner": "MAURER AMY C",
-      "grantee": "",
-      "amount": "",
-      "legal": "2560 STANBERY DR BEXLEY WOODS",
-      "prop_address": "2560 STANBERY DR",
-      "prop_city": "Columbus",
-      "prop_state": "OH",
-      "prop_zip": "43209",
-      "mail_address": "2560 STANBERY DR COLUMBUS OH 43209-1062",
-      "mail_city": "Columbus",
-      "mail_state": "OH",
-      "mail_zip": "43209",
-      "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=020-003386&UseSearch=no",
       "flags": [
         "Possible tax deed",
         "New this week"
@@ -4898,31 +4497,6 @@
       "score": 83
     },
     {
-      "doc_num": "010-167114",
-      "doc_type": "TAX_DEED",
-      "filed": "09/08/2026",
-      "cat": "tax_distress",
-      "cat_label": "Possible Tax Deed ($0 / $100)",
-      "owner": "BELL VIRGINIA K TTEE",
-      "grantee": "",
-      "amount": "",
-      "legal": "HOLT AVE AMVET HOMESTD SUB 1",
-      "prop_address": "2444 HOLT AVE",
-      "prop_city": "Columbus",
-      "prop_state": "OH",
-      "prop_zip": "43219",
-      "mail_address": "2575 SABRA CT SE LANCASTER OH 43130-9778",
-      "mail_city": "Lancaster",
-      "mail_state": "OH",
-      "mail_zip": "43130",
-      "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=010-167114&UseSearch=no",
-      "flags": [
-        "Possible tax deed",
-        "New this week"
-      ],
-      "score": 83
-    },
-    {
       "doc_num": "010-100749",
       "doc_type": "TAX_DEED",
       "filed": "09/14/2026",
@@ -5016,31 +4590,6 @@
       "mail_state": "OH",
       "mail_zip": "45249",
       "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=010-072183&UseSearch=no",
-      "flags": [
-        "Possible tax deed",
-        "New this week"
-      ],
-      "score": 83
-    },
-    {
-      "doc_num": "010-079731",
-      "doc_type": "TAX_DEED",
-      "filed": "09/08/2026",
-      "cat": "tax_distress",
-      "cat_label": "Possible Tax Deed ($0 / $100)",
-      "owner": "NESPOR JAN KENT TTEE",
-      "grantee": "",
-      "amount": "",
-      "legal": "ZOOLAND LOT 637",
-      "prop_address": "74 E JEFFREY PL",
-      "prop_city": "Columbus",
-      "prop_state": "OH",
-      "prop_zip": "43214",
-      "mail_address": "74 E JEFFREY PL COLUMBUS OH 43214-1702",
-      "mail_city": "Columbus",
-      "mail_state": "OH",
-      "mail_zip": "43214",
-      "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=010-079731&UseSearch=no",
       "flags": [
         "Possible tax deed",
         "New this week"
@@ -5148,31 +4697,6 @@
       "score": 83
     },
     {
-      "doc_num": "600-150196",
-      "doc_type": "TAX_DEED",
-      "filed": "09/08/2026",
-      "cat": "tax_distress",
-      "cat_label": "Possible Tax Deed ($0 / $100)",
-      "owner": "VOLL ASHLEY N",
-      "grantee": "",
-      "amount": "",
-      "legal": "PARKLANE AVE PARKRIDGE VILLAGE",
-      "prop_address": "3168 PARKLANE AVE",
-      "prop_city": "Columbus",
-      "prop_state": "OH",
-      "prop_zip": "43231",
-      "mail_address": "PO BOX 9202 COPPELL TX 75019-9208",
-      "mail_city": "Coppell",
-      "mail_state": "TX",
-      "mail_zip": "75019",
-      "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=600-150196&UseSearch=no",
-      "flags": [
-        "Possible tax deed",
-        "New this week"
-      ],
-      "score": 83
-    },
-    {
       "doc_num": "010-244052",
       "doc_type": "TAX_DEED",
       "filed": "09/14/2026",
@@ -5241,31 +4765,6 @@
       "mail_state": "TX",
       "mail_zip": "75019",
       "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=515-257411&UseSearch=no",
-      "flags": [
-        "Possible tax deed",
-        "New this week"
-      ],
-      "score": 83
-    },
-    {
-      "doc_num": "170-003631",
-      "doc_type": "TAX_DEED",
-      "filed": "09/08/2026",
-      "cat": "tax_distress",
-      "cat_label": "Possible Tax Deed ($0 / $100)",
-      "owner": "YOUNG JULIA K TTEE",
-      "grantee": "",
-      "amount": "",
-      "legal": "2908 KEANNEN STREET FIELDSTONE SECTION 3",
-      "prop_address": "2908 KEANNEN ST",
-      "prop_city": "Columbus",
-      "prop_state": "OH",
-      "prop_zip": "43004",
-      "mail_address": "2908 KEANNEN ST BLACKLICK OH 43004-6025",
-      "mail_city": "Blacklick",
-      "mail_state": "OH",
-      "mail_zip": "43004",
-      "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=170-003631&UseSearch=no",
       "flags": [
         "Possible tax deed",
         "New this week"
@@ -5398,31 +4897,6 @@
       "score": 83
     },
     {
-      "doc_num": "100-000245",
-      "doc_type": "TAX_DEED",
-      "filed": "09/08/2026",
-      "cat": "tax_distress",
-      "cat_label": "Possible Tax Deed ($0 / $100)",
-      "owner": "CRAMER LORI K",
-      "grantee": "",
-      "amount": "",
-      "legal": "806 EVENING ST LOT 3 GAYS ADDN",
-      "prop_address": "806 EVENING ST",
-      "prop_city": "Columbus",
-      "prop_state": "OH",
-      "prop_zip": "43085",
-      "mail_address": "806 EVENING ST WORTHINGTON OH 43085-3006",
-      "mail_city": "Worthington",
-      "mail_state": "OH",
-      "mail_zip": "43085",
-      "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=100-000245&UseSearch=no",
-      "flags": [
-        "Possible tax deed",
-        "New this week"
-      ],
-      "score": 83
-    },
-    {
       "doc_num": "100-002960",
       "doc_type": "TAX_DEED",
       "filed": "09/10/2026",
@@ -5466,31 +4940,6 @@
       "mail_state": "OH",
       "mail_zip": "43229",
       "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=010-153782&UseSearch=no",
-      "flags": [
-        "Possible tax deed",
-        "New this week"
-      ],
-      "score": 83
-    },
-    {
-      "doc_num": "010-154422",
-      "doc_type": "TAX_DEED",
-      "filed": "09/08/2026",
-      "cat": "tax_distress",
-      "cat_label": "Possible Tax Deed ($0 / $100)",
-      "owner": "COOK MICHAEL L JR; CRAWFORD CARL L, ET. AL.",
-      "grantee": "",
-      "amount": "",
-      "legal": "ASHTREE PL SHARON WOODS SEC 5",
-      "prop_address": "6103 ASHTREE PL",
-      "prop_city": "Columbus",
-      "prop_state": "OH",
-      "prop_zip": "43229",
-      "mail_address": "6103 ASHTREE PL COLUMBUS OH 43229-2701",
-      "mail_city": "Columbus",
-      "mail_state": "OH",
-      "mail_zip": "43229",
-      "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=010-154422&UseSearch=no",
       "flags": [
         "Possible tax deed",
         "New this week"
@@ -5591,31 +5040,6 @@
       "mail_state": "TX",
       "mail_zip": "75019",
       "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=010-254310&UseSearch=no",
-      "flags": [
-        "Possible tax deed",
-        "New this week"
-      ],
-      "score": 83
-    },
-    {
-      "doc_num": "610-201140",
-      "doc_type": "TAX_DEED",
-      "filed": "09/08/2026",
-      "cat": "tax_distress",
-      "cat_label": "Possible Tax Deed ($0 / $100)",
-      "owner": "BLAIR WILLIAM L",
-      "grantee": "",
-      "amount": "",
-      "legal": "WORTHINGTON WOODS WEST CONDO 5",
-      "prop_address": "820 ANNAGLADYS DR A3",
-      "prop_city": "Columbus",
-      "prop_state": "OH",
-      "prop_zip": "43085",
-      "mail_address": "PO BOX 9202 COPPELL TX 75019-9208",
-      "mail_city": "Coppell",
-      "mail_state": "TX",
-      "mail_zip": "75019",
-      "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=610-201140&UseSearch=no",
       "flags": [
         "Possible tax deed",
         "New this week"
@@ -5798,31 +5222,6 @@
       "score": 83
     },
     {
-      "doc_num": "080-006761",
-      "doc_type": "TAX_DEED",
-      "filed": "09/08/2026",
-      "cat": "tax_distress",
-      "cat_label": "Possible Tax Deed ($0 / $100)",
-      "owner": "KAUL THEODORE J",
-      "grantee": "",
-      "amount": "",
-      "legal": "TALLOWWOOD DRIVE TWELVE TREES SEC 2",
-      "prop_address": "283 TALLOWWOOD DR",
-      "prop_city": "Columbus",
-      "prop_state": "OH",
-      "prop_zip": "43081",
-      "mail_address": "283 TALLOWWOOD DR WESTERVILLE OH 43081-4548",
-      "mail_city": "Westerville",
-      "mail_state": "OH",
-      "mail_zip": "43081",
-      "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=080-006761&UseSearch=no",
-      "flags": [
-        "Possible tax deed",
-        "New this week"
-      ],
-      "score": 83
-    },
-    {
       "doc_num": "080-011222",
       "doc_type": "TAX_DEED",
       "filed": "09/09/2026",
@@ -5896,31 +5295,6 @@
         "New this week"
       ],
       "score": 83
-    },
-    {
-      "doc_num": "040-003547",
-      "doc_type": "ABSENTEE",
-      "filed": "09/08/2026",
-      "cat": "pre_foreclosure",
-      "cat_label": "Absentee / Out-of-County Owner",
-      "owner": "COOK JOE EARL",
-      "grantee": "",
-      "amount": "26900.00",
-      "legal": "2826 PARLIN DR PARLIN MANOR",
-      "prop_address": "2826 PARLIN DR",
-      "prop_city": "Columbus",
-      "prop_state": "OH",
-      "prop_zip": "43123",
-      "mail_address": "PO BOX 9202 COPPELL TX 75019-9208",
-      "mail_city": "Coppell",
-      "mail_state": "TX",
-      "mail_zip": "75019",
-      "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=040-003547&UseSearch=no",
-      "flags": [
-        "Out-of-state owner",
-        "New this week"
-      ],
-      "score": 73
     },
     {
       "doc_num": "010-124041",
@@ -6098,31 +5472,6 @@
       "score": 73
     },
     {
-      "doc_num": "232-000024",
-      "doc_type": "RENTAL",
-      "filed": "09/08/2026",
-      "cat": "lien",
-      "cat_label": "Non-Owner-Occupied Rental",
-      "owner": "BOGGS ZANE; BOGGS SHANNA",
-      "grantee": "",
-      "amount": "230000.00",
-      "legal": "LONDON GROVEPORT RD OQ 721 ENTRY 8423",
-      "prop_address": "8858 LONDON GROVEPORT RD",
-      "prop_city": "Columbus",
-      "prop_state": "OH",
-      "prop_zip": "43123",
-      "mail_address": "6810 BIGGERT RD LONDON OH 43140-9434",
-      "mail_city": "London",
-      "mail_state": "OH",
-      "mail_zip": "43140",
-      "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=232-000024&UseSearch=no",
-      "flags": [
-        "Non-owner-occupied",
-        "New this week"
-      ],
-      "score": 63
-    },
-    {
       "doc_num": "230-002731",
       "doc_type": "ABSENTEE",
       "filed": "09/14/2026",
@@ -6168,56 +5517,6 @@
       "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=230-001591&UseSearch=no",
       "flags": [
         "No homestead exemption",
-        "New this week"
-      ],
-      "score": 63
-    },
-    {
-      "doc_num": "040-011813",
-      "doc_type": "ABSENTEE",
-      "filed": "09/08/2026",
-      "cat": "pre_foreclosure",
-      "cat_label": "Absentee / Out-of-County Owner",
-      "owner": "PRATT JUANITTA M",
-      "grantee": "",
-      "amount": "265000.00",
-      "legal": "LANDINGS AT QUAIL CREEK CONDOMINIUM 5TH AMD",
-      "prop_address": "6026 LANDINGS POND PL",
-      "prop_city": "Columbus",
-      "prop_state": "OH",
-      "prop_zip": "43123",
-      "mail_address": "PO BOX 9202 COPPELL TX 75019-9208",
-      "mail_city": "Coppell",
-      "mail_state": "TX",
-      "mail_zip": "75019",
-      "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=040-011813&UseSearch=no",
-      "flags": [
-        "Out-of-state owner",
-        "New this week"
-      ],
-      "score": 63
-    },
-    {
-      "doc_num": "040-011871",
-      "doc_type": "ABSENTEE",
-      "filed": "09/08/2026",
-      "cat": "pre_foreclosure",
-      "cat_label": "Absentee / Out-of-County Owner",
-      "owner": "WILLIAMS PATRICIA ANN",
-      "grantee": "",
-      "amount": "344999.00",
-      "legal": "LANDINGS AT QUAIL CREEK CONDOMINIUM 6TH AMD",
-      "prop_address": "6053 LANDINGS POND PL",
-      "prop_city": "Columbus",
-      "prop_state": "OH",
-      "prop_zip": "43123",
-      "mail_address": "PO BOX 9202 COPPELL TX 75019-9208",
-      "mail_city": "Coppell",
-      "mail_state": "TX",
-      "mail_zip": "75019",
-      "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=040-011871&UseSearch=no",
-      "flags": [
-        "Out-of-state owner",
         "New this week"
       ],
       "score": 63
@@ -6648,31 +5947,6 @@
       "score": 63
     },
     {
-      "doc_num": "435-294206",
-      "doc_type": "ABSENTEE",
-      "filed": "09/08/2026",
-      "cat": "pre_foreclosure",
-      "cat_label": "Absentee / Out-of-County Owner",
-      "owner": "LEE JONATHAN E",
-      "grantee": "",
-      "amount": "390000.00",
-      "legal": "BIG RUN RIDGE  SECTION 3 PART 1",
-      "prop_address": "3957 CAYSEE JAY WY",
-      "prop_city": "Columbus",
-      "prop_state": "OH",
-      "prop_zip": "43123",
-      "mail_address": "PO BOX 9202 COPPELL TX 75019-9208",
-      "mail_city": "Coppell",
-      "mail_state": "TX",
-      "mail_zip": "75019",
-      "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=435-294206&UseSearch=no",
-      "flags": [
-        "Out-of-state owner",
-        "New this week"
-      ],
-      "score": 63
-    },
-    {
       "doc_num": "570-250961",
       "doc_type": "ABSENTEE",
       "filed": "09/09/2026",
@@ -6873,31 +6147,6 @@
       "score": 63
     },
     {
-      "doc_num": "040-005628",
-      "doc_type": "ABSENTEE",
-      "filed": "09/08/2026",
-      "cat": "pre_foreclosure",
-      "cat_label": "Absentee / Out-of-County Owner",
-      "owner": "MADJUS RYNA MHAE; CASO HANS",
-      "grantee": "",
-      "amount": "385000.00",
-      "legal": "2386 PARKVIEW DRIVE PARKSIDE ESTATES 2",
-      "prop_address": "2386 PARKVIEW DR",
-      "prop_city": "Columbus",
-      "prop_state": "OH",
-      "prop_zip": "43123",
-      "mail_address": "PO BOX 9202 COPPELL TX 75019-9208",
-      "mail_city": "Coppell",
-      "mail_state": "TX",
-      "mail_zip": "75019",
-      "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=040-005628&UseSearch=no",
-      "flags": [
-        "Out-of-state owner",
-        "New this week"
-      ],
-      "score": 63
-    },
-    {
       "doc_num": "160-000607",
       "doc_type": "ABSENTEE",
       "filed": "09/14/2026",
@@ -6943,31 +6192,6 @@
       "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=570-160189&UseSearch=no",
       "flags": [
         "No homestead exemption",
-        "New this week"
-      ],
-      "score": 63
-    },
-    {
-      "doc_num": "570-169224",
-      "doc_type": "ABSENTEE",
-      "filed": "09/08/2026",
-      "cat": "pre_foreclosure",
-      "cat_label": "Absentee / Out-of-County Owner",
-      "owner": "BROWN MICHELLE",
-      "grantee": "",
-      "amount": "230000.00",
-      "legal": "2307 TOPAZ DRIVE STONERIDGE NO 4",
-      "prop_address": "2307 TOPAZ DR",
-      "prop_city": "Columbus",
-      "prop_state": "OH",
-      "prop_zip": "43123",
-      "mail_address": "PO BOX 9202 COPPELL TX 75019-9208",
-      "mail_city": "Coppell",
-      "mail_state": "TX",
-      "mail_zip": "75019",
-      "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=570-169224&UseSearch=no",
-      "flags": [
-        "Out-of-state owner",
         "New this week"
       ],
       "score": 63
@@ -7123,31 +6347,6 @@
       "score": 63
     },
     {
-      "doc_num": "570-162539",
-      "doc_type": "ABSENTEE",
-      "filed": "09/08/2026",
-      "cat": "pre_foreclosure",
-      "cat_label": "Absentee / Out-of-County Owner",
-      "owner": "RILEY ALLY NICHOLE",
-      "grantee": "",
-      "amount": "155900.00",
-      "legal": "HARDESTY HEIGHTS COND 'X'",
-      "prop_address": "604 PAMLICO ST X-8",
-      "prop_city": "Columbus",
-      "prop_state": "OH",
-      "prop_zip": "43228",
-      "mail_address": "PO BOX 9202 COPPELL TX 75019-9208",
-      "mail_city": "Coppell",
-      "mail_state": "TX",
-      "mail_zip": "75019",
-      "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=570-162539&UseSearch=no",
-      "flags": [
-        "Out-of-state owner",
-        "New this week"
-      ],
-      "score": 63
-    },
-    {
       "doc_num": "570-217469",
       "doc_type": "ABSENTEE",
       "filed": "09/14/2026",
@@ -7168,31 +6367,6 @@
       "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=570-217469&UseSearch=no",
       "flags": [
         "Out-of-state owner",
-        "New this week"
-      ],
-      "score": 63
-    },
-    {
-      "doc_num": "570-161705",
-      "doc_type": "NO_HOMESTEAD",
-      "filed": "09/08/2026",
-      "cat": "judgment",
-      "cat_label": "No Homestead – Possible Tax Issue",
-      "owner": "APPLEGATE TARA",
-      "grantee": "",
-      "amount": "90000.00",
-      "legal": "CHERRY CREEK VILLAS CONDOMINIUM PHASE II",
-      "prop_address": "707 CHERRY HOLLOW RD C",
-      "prop_city": "Columbus",
-      "prop_state": "OH",
-      "prop_zip": "43228",
-      "mail_address": "707 CHERRY HOLLOW RD COLUMBUS OH 43228-2788",
-      "mail_city": "Columbus",
-      "mail_state": "OH",
-      "mail_zip": "43228",
-      "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=570-161705&UseSearch=no",
-      "flags": [
-        "No homestead exemption",
         "New this week"
       ],
       "score": 63
@@ -7243,31 +6417,6 @@
       "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=570-300141&UseSearch=no",
       "flags": [
         "LLC / corp owner",
-        "New this week"
-      ],
-      "score": 63
-    },
-    {
-      "doc_num": "240-000456",
-      "doc_type": "ABSENTEE",
-      "filed": "09/08/2026",
-      "cat": "pre_foreclosure",
-      "cat_label": "Absentee / Out-of-County Owner",
-      "owner": "MARTINEZ NAYELI SANCHEZ",
-      "grantee": "",
-      "amount": "220000.00",
-      "legal": "LENNOX AVE LITTLE FARMS",
-      "prop_address": "150 LENNOX AVE",
-      "prop_city": "Columbus",
-      "prop_state": "OH",
-      "prop_zip": "43228",
-      "mail_address": "PO BOX 9202 COPPELL TX 75019-9208",
-      "mail_city": "Coppell",
-      "mail_state": "TX",
-      "mail_zip": "75019",
-      "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=240-000456&UseSearch=no",
-      "flags": [
-        "Out-of-state owner",
         "New this week"
       ],
       "score": 63
@@ -7668,31 +6817,6 @@
       "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=010-067742&UseSearch=no",
       "flags": [
         "LLC / corp owner",
-        "New this week"
-      ],
-      "score": 63
-    },
-    {
-      "doc_num": "010-045803",
-      "doc_type": "NO_HOMESTEAD",
-      "filed": "09/08/2026",
-      "cat": "judgment",
-      "cat_label": "No Homestead – Possible Tax Issue",
-      "owner": "DALTALAMACCHIA STEFANO",
-      "grantee": "",
-      "amount": "200000.00",
-      "legal": "192 S HARRIS AVE WICKLOW EXT",
-      "prop_address": "192 S HARRIS AVE",
-      "prop_city": "Columbus",
-      "prop_state": "OH",
-      "prop_zip": "43204",
-      "mail_address": "192 S HARRIS AVE COLUMBUS OH 43204-3011",
-      "mail_city": "Columbus",
-      "mail_state": "OH",
-      "mail_zip": "43204",
-      "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=010-045803&UseSearch=no",
-      "flags": [
-        "No homestead exemption",
         "New this week"
       ],
       "score": 63
@@ -8173,56 +7297,6 @@
       "score": 63
     },
     {
-      "doc_num": "184-002317",
-      "doc_type": "ABSENTEE",
-      "filed": "09/08/2026",
-      "cat": "pre_foreclosure",
-      "cat_label": "Absentee / Out-of-County Owner",
-      "owner": "HERNANDEZ CANDICE NICOLE",
-      "grantee": "",
-      "amount": "540000.00",
-      "legal": "CROSSETT COURT VILLAGES AT WESTCHESTER",
-      "prop_address": "7279 CROSSETT CT",
-      "prop_city": "Columbus",
-      "prop_state": "OH",
-      "prop_zip": "43110",
-      "mail_address": "PO BOX 9202 COPPELL TX 75019-9208",
-      "mail_city": "Coppell",
-      "mail_state": "TX",
-      "mail_zip": "75019",
-      "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=184-002317&UseSearch=no",
-      "flags": [
-        "Out-of-state owner",
-        "New this week"
-      ],
-      "score": 63
-    },
-    {
-      "doc_num": "185-000720",
-      "doc_type": "LLC_CORP",
-      "filed": "09/08/2026",
-      "cat": "pre_foreclosure",
-      "cat_label": "LLC / Corp Owner",
-      "owner": "CABZ PROPERTIES LLC",
-      "grantee": "",
-      "amount": "260000.00",
-      "legal": "HANSTEIN PL LOT 10 &",
-      "prop_address": "151 - 153 HANSTEIN PL",
-      "prop_city": "Columbus",
-      "prop_state": "OH",
-      "prop_zip": "43125",
-      "mail_address": "170 WASHINGTON ST CANAL WINCHESTER OH 43110-1224",
-      "mail_city": "Canal Winchester",
-      "mail_state": "OH",
-      "mail_zip": "43110",
-      "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=185-000720&UseSearch=no",
-      "flags": [
-        "LLC / corp owner",
-        "New this week"
-      ],
-      "score": 63
-    },
-    {
       "doc_num": "185-000298",
       "doc_type": "NO_HOMESTEAD",
       "filed": "09/11/2026",
@@ -8243,31 +7317,6 @@
       "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=185-000298&UseSearch=no",
       "flags": [
         "No homestead exemption",
-        "New this week"
-      ],
-      "score": 63
-    },
-    {
-      "doc_num": "184-001179",
-      "doc_type": "RENTAL",
-      "filed": "09/08/2026",
-      "cat": "lien",
-      "cat_label": "Non-Owner-Occupied Rental",
-      "owner": "CLERVAL AVENEAU; LAVACHE MARGOT",
-      "grantee": "",
-      "amount": "548000.00",
-      "legal": "GENDER ROAD 9.74 ACRES",
-      "prop_address": "380 GENDER RD",
-      "prop_city": "Columbus",
-      "prop_state": "OH",
-      "prop_zip": "43110",
-      "mail_address": "169 LINCOLNSHIRE RD COLUMBUS OH 43230-2361",
-      "mail_city": "Columbus",
-      "mail_state": "OH",
-      "mail_zip": "43230",
-      "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=184-001179&UseSearch=no",
-      "flags": [
-        "Non-owner-occupied",
         "New this week"
       ],
       "score": 63
@@ -8773,31 +7822,6 @@
       "score": 63
     },
     {
-      "doc_num": "010-000032",
-      "doc_type": "LLC_CORP",
-      "filed": "09/08/2026",
-      "cat": "pre_foreclosure",
-      "cat_label": "LLC / Corp Owner",
-      "owner": "OBSIDIAN CAPITAL GROUP LLC",
-      "grantee": "",
-      "amount": "160000.00",
-      "legal": "342 HINMAN AVE SOUTHSIDE TERRACE",
-      "prop_address": "342 HINMAN AVE",
-      "prop_city": "Columbus",
-      "prop_state": "OH",
-      "prop_zip": "43207",
-      "mail_address": "5980 BABBITT RD NEW ALBANY OH 43054-9506",
-      "mail_city": "New Albany",
-      "mail_state": "OH",
-      "mail_zip": "43054",
-      "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=010-000032&UseSearch=no",
-      "flags": [
-        "LLC / corp owner",
-        "New this week"
-      ],
-      "score": 63
-    },
-    {
       "doc_num": "010-033352",
       "doc_type": "ABSENTEE",
       "filed": "09/09/2026",
@@ -8948,31 +7972,6 @@
       "score": 63
     },
     {
-      "doc_num": "010-051394",
-      "doc_type": "RENTAL",
-      "filed": "09/08/2026",
-      "cat": "lien",
-      "cat_label": "Non-Owner-Occupied Rental",
-      "owner": "ETIENNE DARLENS",
-      "grantee": "",
-      "amount": "270000.00",
-      "legal": "MITHOFF ST HOMEVILLE",
-      "prop_address": "727 MITHOFF ST",
-      "prop_city": "Columbus",
-      "prop_state": "OH",
-      "prop_zip": "43206",
-      "mail_address": "25 S WESTMOOR AVE COLUMBUS OH 43204-2569",
-      "mail_city": "Columbus",
-      "mail_state": "OH",
-      "mail_zip": "43204",
-      "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=010-051394&UseSearch=no",
-      "flags": [
-        "Non-owner-occupied",
-        "New this week"
-      ],
-      "score": 63
-    },
-    {
       "doc_num": "010-042381",
       "doc_type": "LLC_CORP",
       "filed": "09/10/2026",
@@ -8993,31 +7992,6 @@
       "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=010-042381&UseSearch=no",
       "flags": [
         "LLC / corp owner",
-        "New this week"
-      ],
-      "score": 63
-    },
-    {
-      "doc_num": "010-041147",
-      "doc_type": "ABSENTEE",
-      "filed": "09/08/2026",
-      "cat": "pre_foreclosure",
-      "cat_label": "Absentee / Out-of-County Owner",
-      "owner": "PETIT MACY",
-      "grantee": "",
-      "amount": "225000.00",
-      "legal": "768 ANN ST SWAYNE",
-      "prop_address": "768 ANN ST",
-      "prop_city": "Columbus",
-      "prop_state": "OH",
-      "prop_zip": "43206",
-      "mail_address": "1447 3RD AVE STE B LONGV WA 98632-2818",
-      "mail_city": "Longv",
-      "mail_state": "WA",
-      "mail_zip": "98632",
-      "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=010-041147&UseSearch=no",
-      "flags": [
-        "Out-of-state owner",
         "New this week"
       ],
       "score": 63
@@ -9048,56 +8022,6 @@
       "score": 63
     },
     {
-      "doc_num": "010-106488",
-      "doc_type": "ABSENTEE",
-      "filed": "09/08/2026",
-      "cat": "pre_foreclosure",
-      "cat_label": "Absentee / Out-of-County Owner",
-      "owner": "CROSS ETHAN; CONSTANTINE BAILIE",
-      "grantee": "",
-      "amount": "314900.00",
-      "legal": "1178 LOCKBOURNE RD 56FT SS SPENCER",
-      "prop_address": "1178 S LOCKBOURNE RD",
-      "prop_city": "Columbus",
-      "prop_state": "OH",
-      "prop_zip": "43206",
-      "mail_address": "2265 CHIMNEY SWIFT CIR MARIETTA GA 30062-2883",
-      "mail_city": "Marietta",
-      "mail_state": "GA",
-      "mail_zip": "30062",
-      "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=010-106488&UseSearch=no",
-      "flags": [
-        "Out-of-state owner",
-        "New this week"
-      ],
-      "score": 63
-    },
-    {
-      "doc_num": "010-020261",
-      "doc_type": "LLC_CORP",
-      "filed": "09/08/2026",
-      "cat": "pre_foreclosure",
-      "cat_label": "LLC / Corp Owner",
-      "owner": "YELLOW ROCK QOZB LLC",
-      "grantee": "",
-      "amount": "118000.00",
-      "legal": "928 MILLER AVE GEORGE WILLIAMS, JR. MILLER AVE ADD",
-      "prop_address": "928 MILLER AVE",
-      "prop_city": "Columbus",
-      "prop_state": "OH",
-      "prop_zip": "43206",
-      "mail_address": "PO BOX 10069 COLUMBUS OH 43201-0569",
-      "mail_city": "Columbus",
-      "mail_state": "OH",
-      "mail_zip": "43201",
-      "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=010-020261&UseSearch=no",
-      "flags": [
-        "LLC / corp owner",
-        "New this week"
-      ],
-      "score": 63
-    },
-    {
       "doc_num": "010-016048",
       "doc_type": "LLC_CORP",
       "filed": "09/10/2026",
@@ -9118,31 +8042,6 @@
       "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=010-016048&UseSearch=no",
       "flags": [
         "LLC / corp owner",
-        "New this week"
-      ],
-      "score": 63
-    },
-    {
-      "doc_num": "010-019690",
-      "doc_type": "ABSENTEE",
-      "filed": "09/08/2026",
-      "cat": "pre_foreclosure",
-      "cat_label": "Absentee / Out-of-County Owner",
-      "owner": "PRENTICE MARIE A; JONES ETHAN",
-      "grantee": "",
-      "amount": "206000.00",
-      "legal": "884 BELLOWS AVE OSBORN PLACE",
-      "prop_address": "884 BELLOWS AVE",
-      "prop_city": "Columbus",
-      "prop_state": "OH",
-      "prop_zip": "43223",
-      "mail_address": "PO BOX 9202 COPPELL TX 75019-9208",
-      "mail_city": "Coppell",
-      "mail_state": "TX",
-      "mail_zip": "75019",
-      "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=010-019690&UseSearch=no",
-      "flags": [
-        "Out-of-state owner",
         "New this week"
       ],
       "score": 63
@@ -9293,31 +8192,6 @@
       "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=010-010455&UseSearch=no",
       "flags": [
         "LLC / corp owner",
-        "New this week"
-      ],
-      "score": 63
-    },
-    {
-      "doc_num": "010-044548",
-      "doc_type": "ABSENTEE",
-      "filed": "09/08/2026",
-      "cat": "pre_foreclosure",
-      "cat_label": "Absentee / Out-of-County Owner",
-      "owner": "BONNIE DAVID III",
-      "grantee": "",
-      "amount": "495000.00",
-      "legal": "LATHROP ST            KRAUSS                   ",
-      "prop_address": "567 LATHROP ST",
-      "prop_city": "Columbus",
-      "prop_state": "OH",
-      "prop_zip": "43206",
-      "mail_address": "PO BOX 9202 COPPELL TX 75019-9208",
-      "mail_city": "Coppell",
-      "mail_state": "TX",
-      "mail_zip": "75019",
-      "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=010-044548&UseSearch=no",
-      "flags": [
-        "Out-of-state owner",
         "New this week"
       ],
       "score": 63
@@ -9518,31 +8392,6 @@
       "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=010-080530&UseSearch=no",
       "flags": [
         "LLC / corp owner",
-        "New this week"
-      ],
-      "score": 63
-    },
-    {
-      "doc_num": "010-101679",
-      "doc_type": "ABSENTEE",
-      "filed": "09/08/2026",
-      "cat": "pre_foreclosure",
-      "cat_label": "Absentee / Out-of-County Owner",
-      "owner": "EDELMAN SHERYL F",
-      "grantee": "",
-      "amount": "712000.00",
-      "legal": "SCOTTWOOD RD BERWICK HTS 2",
-      "prop_address": "2567 SCOTTWOOD RD",
-      "prop_city": "Columbus",
-      "prop_state": "OH",
-      "prop_zip": "43209",
-      "mail_address": "PO BOX 9202 COPPELL TX 75019-9208",
-      "mail_city": "Coppell",
-      "mail_state": "TX",
-      "mail_zip": "75019",
-      "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=010-101679&UseSearch=no",
-      "flags": [
-        "Out-of-state owner",
         "New this week"
       ],
       "score": 63
@@ -9923,31 +8772,6 @@
       "score": 63
     },
     {
-      "doc_num": "010-088650",
-      "doc_type": "ABSENTEE",
-      "filed": "09/08/2026",
-      "cat": "pre_foreclosure",
-      "cat_label": "Absentee / Out-of-County Owner",
-      "owner": "RAHMAN SAQIFUR; TAHIR HIRA",
-      "grantee": "",
-      "amount": "300000.00",
-      "legal": "NAPOLEON AVE LINCOLN PARK",
-      "prop_address": "450 - 452 NAPOLEON AVE",
-      "prop_city": "Columbus",
-      "prop_state": "OH",
-      "prop_zip": "43213",
-      "mail_address": "14467 E 1ST DR APT B3 AURORA CO 80011-8772",
-      "mail_city": "Aurora",
-      "mail_state": "CO",
-      "mail_zip": "80011",
-      "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=010-088650&UseSearch=no",
-      "flags": [
-        "Out-of-state owner",
-        "New this week"
-      ],
-      "score": 63
-    },
-    {
       "doc_num": "010-089430",
       "doc_type": "ABSENTEE",
       "filed": "09/14/2026",
@@ -10216,31 +9040,6 @@
       "mail_state": "TX",
       "mail_zip": "75019",
       "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=530-273998&UseSearch=no",
-      "flags": [
-        "Out-of-state owner",
-        "New this week"
-      ],
-      "score": 63
-    },
-    {
-      "doc_num": "530-221822",
-      "doc_type": "ABSENTEE",
-      "filed": "09/08/2026",
-      "cat": "pre_foreclosure",
-      "cat_label": "Absentee / Out-of-County Owner",
-      "owner": "BANIYA BISHNU MAYA",
-      "grantee": "",
-      "amount": "289900.00",
-      "legal": "6935 WOODY CT HUMMELL GROVE SEC 2",
-      "prop_address": "6935 WOODY CT",
-      "prop_city": "Columbus",
-      "prop_state": "OH",
-      "prop_zip": "43110",
-      "mail_address": "PO BOX 9202 COPPELL TX 75019-9208",
-      "mail_city": "Coppell",
-      "mail_state": "TX",
-      "mail_zip": "75019",
-      "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=530-221822&UseSearch=no",
       "flags": [
         "Out-of-state owner",
         "New this week"
@@ -10573,31 +9372,6 @@
       "score": 63
     },
     {
-      "doc_num": "550-194247",
-      "doc_type": "NO_HOMESTEAD",
-      "filed": "09/08/2026",
-      "cat": "judgment",
-      "cat_label": "No Homestead – Possible Tax Issue",
-      "owner": "SPIRIN MARINA",
-      "grantee": "",
-      "amount": "145000.00",
-      "legal": "MISTY WAY MCNAUGHTEN VIL CONDO",
-      "prop_address": "1814 MISTY WY",
-      "prop_city": "Columbus",
-      "prop_state": "OH",
-      "prop_zip": "43232",
-      "mail_address": "1247 SMOKE BURR DR WESTERVILLE OH 43081-4509",
-      "mail_city": "Westerville",
-      "mail_state": "OH",
-      "mail_zip": "43081",
-      "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=550-194247&UseSearch=no",
-      "flags": [
-        "No homestead exemption",
-        "New this week"
-      ],
-      "score": 63
-    },
-    {
       "doc_num": "090-003849",
       "doc_type": "LLC_CORP",
       "filed": "09/09/2026",
@@ -10798,31 +9572,6 @@
       "score": 63
     },
     {
-      "doc_num": "010-136897",
-      "doc_type": "LLC_CORP",
-      "filed": "09/08/2026",
-      "cat": "pre_foreclosure",
-      "cat_label": "LLC / Corp Owner",
-      "owner": "IMK PROPERTIES LLC",
-      "grantee": "",
-      "amount": "104000.00",
-      "legal": "CARRIAGE LANE RED FOX HOLLOW 2",
-      "prop_address": "6433 CARRIAGE LN",
-      "prop_city": "Columbus",
-      "prop_state": "OH",
-      "prop_zip": "43068",
-      "mail_address": "6433 CARRIAGE LN REYNOLDSBURG OH 43068-1931",
-      "mail_city": "Reynoldsburg",
-      "mail_state": "OH",
-      "mail_zip": "43068",
-      "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=010-136897&UseSearch=no",
-      "flags": [
-        "LLC / corp owner",
-        "New this week"
-      ],
-      "score": 63
-    },
-    {
       "doc_num": "060-000314",
       "doc_type": "ABSENTEE",
       "filed": "09/11/2026",
@@ -10998,31 +9747,6 @@
       "score": 63
     },
     {
-      "doc_num": "200-001886",
-      "doc_type": "NO_HOMESTEAD",
-      "filed": "09/08/2026",
-      "cat": "judgment",
-      "cat_label": "No Homestead – Possible Tax Issue",
-      "owner": "LATELLE ANIKA; LATELLE BENJAMIN",
-      "grantee": "",
-      "amount": "420000.00",
-      "legal": "HICKORY HILL DR TIMBERBROOK EXT 2",
-      "prop_address": "1791 HICKORY HILL DR",
-      "prop_city": "Columbus",
-      "prop_state": "OH",
-      "prop_zip": "43026",
-      "mail_address": "1791 HICKORY HILL DR COLUMBUS OH 43228-9518",
-      "mail_city": "Columbus",
-      "mail_state": "OH",
-      "mail_zip": "43228",
-      "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=200-001886&UseSearch=no",
-      "flags": [
-        "No homestead exemption",
-        "New this week"
-      ],
-      "score": 63
-    },
-    {
       "doc_num": "560-211074",
       "doc_type": "LLC_CORP",
       "filed": "09/10/2026",
@@ -11091,31 +9815,6 @@
       "mail_state": "OH",
       "mail_zip": "43026",
       "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=560-222974&UseSearch=no",
-      "flags": [
-        "No homestead exemption",
-        "New this week"
-      ],
-      "score": 63
-    },
-    {
-      "doc_num": "560-227693",
-      "doc_type": "NO_HOMESTEAD",
-      "filed": "09/08/2026",
-      "cat": "judgment",
-      "cat_label": "No Homestead – Possible Tax Issue",
-      "owner": "CONNELL CRYSTAL WARTH",
-      "grantee": "",
-      "amount": "255000.00",
-      "legal": "HILLIARD VILLAGE CONDOMINIUM 14TH AMD",
-      "prop_address": "1854 MESSNER DR 59A",
-      "prop_city": "Columbus",
-      "prop_state": "OH",
-      "prop_zip": "43026",
-      "mail_address": "8805 GOVERNORS HILL DR CINCINNATI OH 45249-3314",
-      "mail_city": "Cincinnati",
-      "mail_state": "OH",
-      "mail_zip": "45249",
-      "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=560-227693&UseSearch=no",
       "flags": [
         "No homestead exemption",
         "New this week"
@@ -11373,31 +10072,6 @@
       "score": 63
     },
     {
-      "doc_num": "560-244117",
-      "doc_type": "ABSENTEE",
-      "filed": "09/08/2026",
-      "cat": "pre_foreclosure",
-      "cat_label": "Absentee / Out-of-County Owner",
-      "owner": "HOFFMAN ALYSON NICOLE",
-      "grantee": "",
-      "amount": "345000.00",
-      "legal": "YAGGER BAY DRIVE HILLIARD GREEN",
-      "prop_address": "2396 YAGGER BAY DR",
-      "prop_city": "Columbus",
-      "prop_state": "OH",
-      "prop_zip": "43026",
-      "mail_address": "PO BOX 9202 COPPELL TX 75019-9208",
-      "mail_city": "Coppell",
-      "mail_state": "TX",
-      "mail_zip": "75019",
-      "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=560-244117&UseSearch=no",
-      "flags": [
-        "Out-of-state owner",
-        "New this week"
-      ],
-      "score": 63
-    },
-    {
       "doc_num": "560-286784",
       "doc_type": "LLC_CORP",
       "filed": "09/14/2026",
@@ -11523,31 +10197,6 @@
       "score": 63
     },
     {
-      "doc_num": "030-001143",
-      "doc_type": "ABSENTEE",
-      "filed": "09/08/2026",
-      "cat": "pre_foreclosure",
-      "cat_label": "Absentee / Out-of-County Owner",
-      "owner": "COHEN JORDYN L",
-      "grantee": "",
-      "amount": "429900.00",
-      "legal": "873 GLADDEN RD NORTHWEST BLVD 4",
-      "prop_address": "873 TIMBERMAN RD",
-      "prop_city": "Columbus",
-      "prop_state": "OH",
-      "prop_zip": "43212",
-      "mail_address": "PO BOX 9202 COPPELL TX 75019-9208",
-      "mail_city": "Coppell",
-      "mail_state": "TX",
-      "mail_zip": "75019",
-      "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=030-001143&UseSearch=no",
-      "flags": [
-        "Out-of-state owner",
-        "New this week"
-      ],
-      "score": 63
-    },
-    {
       "doc_num": "030-001681",
       "doc_type": "NO_HOMESTEAD",
       "filed": "09/10/2026",
@@ -11591,31 +10240,6 @@
       "mail_state": "OH",
       "mail_zip": "43212",
       "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=010-061810&UseSearch=no",
-      "flags": [
-        "Non-owner-occupied",
-        "New this week"
-      ],
-      "score": 63
-    },
-    {
-      "doc_num": "010-188780",
-      "doc_type": "RENTAL",
-      "filed": "09/08/2026",
-      "cat": "lien",
-      "cat_label": "Non-Owner-Occupied Rental",
-      "owner": "KINZELMAN JONATHAN PETER",
-      "grantee": "",
-      "amount": "238000.00",
-      "legal": "1799 C KINGS CT WINDGATE VILL CONDO",
-      "prop_address": "1799 KINGS CT UNIT C",
-      "prop_city": "Columbus",
-      "prop_state": "OH",
-      "prop_zip": "43212",
-      "mail_address": "145 LAURA DR COLUMBUS OH 43230-2140",
-      "mail_city": "Columbus",
-      "mail_state": "OH",
-      "mail_zip": "43230",
-      "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=010-188780&UseSearch=no",
       "flags": [
         "Non-owner-occupied",
         "New this week"
@@ -11798,31 +10422,6 @@
       "score": 63
     },
     {
-      "doc_num": "050-007178",
-      "doc_type": "ABSENTEE",
-      "filed": "09/08/2026",
-      "cat": "pre_foreclosure",
-      "cat_label": "Absentee / Out-of-County Owner",
-      "owner": "SHAFFER JOHN JENNINGS",
-      "grantee": "",
-      "amount": "442000.00",
-      "legal": "DAVIDSON RUN DR DAVIDSON RUN SEC 1",
-      "prop_address": "4869 ROGER ALLEN CT",
-      "prop_city": "Columbus",
-      "prop_state": "OH",
-      "prop_zip": "43026",
-      "mail_address": "PO BOX 9202 COPPELL TX 75019-9208",
-      "mail_city": "Coppell",
-      "mail_state": "TX",
-      "mail_zip": "75019",
-      "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=050-007178&UseSearch=no",
-      "flags": [
-        "Out-of-state owner",
-        "New this week"
-      ],
-      "score": 63
-    },
-    {
       "doc_num": "010-283075",
       "doc_type": "NO_HOMESTEAD",
       "filed": "09/09/2026",
@@ -11841,31 +10440,6 @@
       "mail_state": "OH",
       "mail_zip": "43221",
       "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=010-283075&UseSearch=no",
-      "flags": [
-        "No homestead exemption",
-        "New this week"
-      ],
-      "score": 63
-    },
-    {
-      "doc_num": "050-006582",
-      "doc_type": "NO_HOMESTEAD",
-      "filed": "09/08/2026",
-      "cat": "judgment",
-      "cat_label": "No Homestead – Possible Tax Issue",
-      "owner": "PATTERSON MARIA",
-      "grantee": "",
-      "amount": "599000.00",
-      "legal": "0000 SCHIRTZINGER RD RIVER CROSSING",
-      "prop_address": "4584 SCHIRTZINGER RD",
-      "prop_city": "Columbus",
-      "prop_state": "OH",
-      "prop_zip": "43026",
-      "mail_address": "4584 SCHIRTZINGER RD HILLIARD OH 43026-2418",
-      "mail_city": "Hilliard",
-      "mail_state": "OH",
-      "mail_zip": "43026",
-      "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=050-006582&UseSearch=no",
       "flags": [
         "No homestead exemption",
         "New this week"
@@ -12123,31 +10697,6 @@
       "score": 63
     },
     {
-      "doc_num": "274-000731",
-      "doc_type": "ABSENTEE",
-      "filed": "09/08/2026",
-      "cat": "pre_foreclosure",
-      "cat_label": "Absentee / Out-of-County Owner",
-      "owner": "HAHN BENJAMIN; HAHN MICHELLE",
-      "grantee": "",
-      "amount": "640000.00",
-      "legal": "PENSWORTHY DRIVE CRAMERS CROSSING",
-      "prop_address": "5507 PENSWORTHY DR",
-      "prop_city": "Columbus",
-      "prop_state": "OH",
-      "prop_zip": "43016",
-      "mail_address": "PO BOX 9202 COPPELL TX 75019-9208",
-      "mail_city": "Coppell",
-      "mail_state": "TX",
-      "mail_zip": "75019",
-      "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=274-000731&UseSearch=no",
-      "flags": [
-        "Out-of-state owner",
-        "New this week"
-      ],
-      "score": 63
-    },
-    {
       "doc_num": "274-000246",
       "doc_type": "ABSENTEE",
       "filed": "09/09/2026",
@@ -12216,56 +10765,6 @@
       "mail_state": "TX",
       "mail_zip": "75019",
       "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=273-005859&UseSearch=no",
-      "flags": [
-        "Out-of-state owner",
-        "New this week"
-      ],
-      "score": 63
-    },
-    {
-      "doc_num": "273-011055",
-      "doc_type": "NO_HOMESTEAD",
-      "filed": "09/08/2026",
-      "cat": "judgment",
-      "cat_label": "No Homestead – Possible Tax Issue",
-      "owner": "JOHNSON JAMELLE",
-      "grantee": "",
-      "amount": "760000.00",
-      "legal": "HANOVER CIRCLE SHANNON GLEN SECTION 6",
-      "prop_address": "8096 HANOVER CIR",
-      "prop_city": "Columbus",
-      "prop_state": "OH",
-      "prop_zip": "43016",
-      "mail_address": "8096 HANOVER CIR DUBLIN OH 43016-7403",
-      "mail_city": "Dublin",
-      "mail_state": "OH",
-      "mail_zip": "43016",
-      "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=273-011055&UseSearch=no",
-      "flags": [
-        "No homestead exemption",
-        "New this week"
-      ],
-      "score": 63
-    },
-    {
-      "doc_num": "273-005932",
-      "doc_type": "ABSENTEE",
-      "filed": "09/08/2026",
-      "cat": "pre_foreclosure",
-      "cat_label": "Absentee / Out-of-County Owner",
-      "owner": "KHANNA MONIKA; KHANNA UJWAL",
-      "grantee": "",
-      "amount": "252000.00",
-      "legal": "VILLAGE AT TUTTLE CROSSING CONDO PH 5",
-      "prop_address": "5831 LOCBURY LN R",
-      "prop_city": "Columbus",
-      "prop_state": "OH",
-      "prop_zip": "43016",
-      "mail_address": "PO BOX 9202 COPPELL TX 75019-9208",
-      "mail_city": "Coppell",
-      "mail_state": "TX",
-      "mail_zip": "75019",
-      "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=273-005932&UseSearch=no",
       "flags": [
         "Out-of-state owner",
         "New this week"
@@ -12373,31 +10872,6 @@
       "score": 63
     },
     {
-      "doc_num": "590-277282",
-      "doc_type": "RENTAL",
-      "filed": "09/08/2026",
-      "cat": "lien",
-      "cat_label": "Non-Owner-Occupied Rental",
-      "owner": "SETTERLIN ROBERT W III; SETTERLIN SUSAN A",
-      "grantee": "",
-      "amount": "442900.00",
-      "legal": "HAYDEN FALLS CONDOMINIUM NO 1 19TH AMD",
-      "prop_address": "5755 NEWGATE RD",
-      "prop_city": "Columbus",
-      "prop_state": "OH",
-      "prop_zip": "43017",
-      "mail_address": "5755 NEWGATE RD DUBLIN OH 43017-2207",
-      "mail_city": "Dublin",
-      "mail_state": "OH",
-      "mail_zip": "43017",
-      "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=590-277282&UseSearch=no",
-      "flags": [
-        "Non-owner-occupied",
-        "New this week"
-      ],
-      "score": 63
-    },
-    {
       "doc_num": "590-181804",
       "doc_type": "ABSENTEE",
       "filed": "09/10/2026",
@@ -12418,31 +10892,6 @@
       "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=590-181804&UseSearch=no",
       "flags": [
         "Out-of-state owner",
-        "New this week"
-      ],
-      "score": 63
-    },
-    {
-      "doc_num": "590-190554",
-      "doc_type": "RENTAL",
-      "filed": "09/08/2026",
-      "cat": "lien",
-      "cat_label": "Non-Owner-Occupied Rental",
-      "owner": "CHAZAZWAH LOIY",
-      "grantee": "",
-      "amount": "535000.00",
-      "legal": "MICHAELKENNEY LA TRAFALGAR COMMONS",
-      "prop_address": "6188 - 6194 MICHAELKENNEY LN",
-      "prop_city": "Columbus",
-      "prop_state": "OH",
-      "prop_zip": "43017",
-      "mail_address": "6675 BARONSCOURT LOOP DUBLIN OH 43016-6090",
-      "mail_city": "Dublin",
-      "mail_state": "OH",
-      "mail_zip": "43016",
-      "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=590-190554&UseSearch=no",
-      "flags": [
-        "Non-owner-occupied",
         "New this week"
       ],
       "score": 63
@@ -12491,31 +10940,6 @@
       "mail_state": "TX",
       "mail_zip": "75019",
       "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=273-006630&UseSearch=no",
-      "flags": [
-        "Out-of-state owner",
-        "New this week"
-      ],
-      "score": 63
-    },
-    {
-      "doc_num": "273-012046",
-      "doc_type": "ABSENTEE",
-      "filed": "09/08/2026",
-      "cat": "pre_foreclosure",
-      "cat_label": "Absentee / Out-of-County Owner",
-      "owner": "ASHLEY NICOLE",
-      "grantee": "",
-      "amount": "187000.00",
-      "legal": "VILLAS AT SAINT ANDREWS CONDOMINIUM COMMUNITY",
-      "prop_address": "357 ST. ANDREWS DR",
-      "prop_city": "Columbus",
-      "prop_state": "OH",
-      "prop_zip": "43017",
-      "mail_address": "901 CORPORATE CENTER DR POMONA CA 91768-2642",
-      "mail_city": "Pomona",
-      "mail_state": "CA",
-      "mail_zip": "91768",
-      "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=273-012046&UseSearch=no",
       "flags": [
         "Out-of-state owner",
         "New this week"
@@ -12668,31 +11092,6 @@
       "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=590-230641&UseSearch=no",
       "flags": [
         "Non-owner-occupied",
-        "New this week"
-      ],
-      "score": 63
-    },
-    {
-      "doc_num": "590-204117",
-      "doc_type": "NO_HOMESTEAD",
-      "filed": "09/08/2026",
-      "cat": "judgment",
-      "cat_label": "No Homestead – Possible Tax Issue",
-      "owner": "PRITIKIN CASSANDRA; PRITIKIN BRYAN",
-      "grantee": "",
-      "amount": "547500.00",
-      "legal": "RAMBLEWOOD AVENUE MCKITRICK ESTATES",
-      "prop_address": "2049 RAMBLEWOOD AVE",
-      "prop_city": "Columbus",
-      "prop_state": "OH",
-      "prop_zip": "43235",
-      "mail_address": "7052 ROB ROY DR DUBLIN OH 43017-8854",
-      "mail_city": "Dublin",
-      "mail_state": "OH",
-      "mail_zip": "43017",
-      "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=590-204117&UseSearch=no",
-      "flags": [
-        "No homestead exemption",
         "New this week"
       ],
       "score": 63
@@ -13523,31 +11922,6 @@
       "score": 63
     },
     {
-      "doc_num": "010-036647",
-      "doc_type": "NO_HOMESTEAD",
-      "filed": "09/08/2026",
-      "cat": "judgment",
-      "cat_label": "No Homestead – Possible Tax Issue",
-      "owner": "SMITH BRIANNA NOELLE",
-      "grantee": "",
-      "amount": "396000.00",
-      "legal": "378 SHERBORNE DRIVE EAST GATE",
-      "prop_address": "378 SHERBORNE DR",
-      "prop_city": "Columbus",
-      "prop_state": "OH",
-      "prop_zip": "43219",
-      "mail_address": "8805 GOVERNORS HILL DR CINCINNATI OH 45249-3314",
-      "mail_city": "Cincinnati",
-      "mail_state": "OH",
-      "mail_zip": "45249",
-      "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=010-036647&UseSearch=no",
-      "flags": [
-        "No homestead exemption",
-        "New this week"
-      ],
-      "score": 63
-    },
-    {
       "doc_num": "010-050359",
       "doc_type": "LLC_CORP",
       "filed": "09/14/2026",
@@ -13848,56 +12222,6 @@
       "score": 63
     },
     {
-      "doc_num": "010-065331",
-      "doc_type": "LLC_CORP",
-      "filed": "09/08/2026",
-      "cat": "pre_foreclosure",
-      "cat_label": "LLC / Corp Owner",
-      "owner": "TM 121 W CALIFORNIA LLC",
-      "grantee": "",
-      "amount": "510000.00",
-      "legal": "121-123 W CALIFORNIA AVE BOHANNANS MANHATTAN",
-      "prop_address": "121 - 123 W CALIFORNIA AVE",
-      "prop_city": "Columbus",
-      "prop_state": "OH",
-      "prop_zip": "43202",
-      "mail_address": "4191 CLAIRMONT RD COLUMBUS OH 43220-4501",
-      "mail_city": "Columbus",
-      "mail_state": "OH",
-      "mail_zip": "43220",
-      "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=010-065331&UseSearch=no",
-      "flags": [
-        "LLC / corp owner",
-        "New this week"
-      ],
-      "score": 63
-    },
-    {
-      "doc_num": "010-065332",
-      "doc_type": "LLC_CORP",
-      "filed": "09/08/2026",
-      "cat": "pre_foreclosure",
-      "cat_label": "LLC / Corp Owner",
-      "owner": "TM 117 W CALIFORNIA LLC",
-      "grantee": "",
-      "amount": "510000.00",
-      "legal": "117-19 W CALIFORNIA AVE BOHANNANS MANHATTAN",
-      "prop_address": "117 - 119 W CALIFORNIA AVE",
-      "prop_city": "Columbus",
-      "prop_state": "OH",
-      "prop_zip": "43202",
-      "mail_address": "4191 CLAIRMONT RD COLUMBUS OH 43220-4501",
-      "mail_city": "Columbus",
-      "mail_state": "OH",
-      "mail_zip": "43220",
-      "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=010-065332&UseSearch=no",
-      "flags": [
-        "LLC / corp owner",
-        "New this week"
-      ],
-      "score": 63
-    },
-    {
       "doc_num": "010-073947",
       "doc_type": "RENTAL",
       "filed": "09/10/2026",
@@ -13943,31 +12267,6 @@
       "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=010-057999&UseSearch=no",
       "flags": [
         "LLC / corp owner",
-        "New this week"
-      ],
-      "score": 63
-    },
-    {
-      "doc_num": "010-076129",
-      "doc_type": "NO_HOMESTEAD",
-      "filed": "09/08/2026",
-      "cat": "judgment",
-      "cat_label": "No Homestead – Possible Tax Issue",
-      "owner": "NARANJO KELLI",
-      "grantee": "",
-      "amount": "188400.00",
-      "legal": "1181 MINNESOTA AVE E 1/2 56 20FTWS 57",
-      "prop_address": "1181 MINNESOTA AVE",
-      "prop_city": "Columbus",
-      "prop_state": "OH",
-      "prop_zip": "43211",
-      "mail_address": "3119 FAYBURROW DR REYNOLDSBURG OH 43068-7068",
-      "mail_city": "Reynoldsburg",
-      "mail_state": "OH",
-      "mail_zip": "43068",
-      "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=010-076129&UseSearch=no",
-      "flags": [
-        "No homestead exemption",
         "New this week"
       ],
       "score": 63
@@ -14448,31 +12747,6 @@
       "score": 63
     },
     {
-      "doc_num": "010-120107",
-      "doc_type": "NO_HOMESTEAD",
-      "filed": "09/08/2026",
-      "cat": "judgment",
-      "cat_label": "No Homestead – Possible Tax Issue",
-      "owner": "WADE LANELL ELIZABETH",
-      "grantee": "",
-      "amount": "435000.00",
-      "legal": "SANDY LANE MAIZE MEADOWS",
-      "prop_address": "968 GARDEN RD",
-      "prop_city": "Columbus",
-      "prop_state": "OH",
-      "prop_zip": "43224",
-      "mail_address": "PO BOX 730 HILLIARD OH 43026-0730",
-      "mail_city": "Hilliard",
-      "mail_state": "OH",
-      "mail_zip": "43026",
-      "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=010-120107&UseSearch=no",
-      "flags": [
-        "No homestead exemption",
-        "New this week"
-      ],
-      "score": 63
-    },
-    {
       "doc_num": "010-082840",
       "doc_type": "LLC_CORP",
       "filed": "09/09/2026",
@@ -14523,31 +12797,6 @@
       "score": 63
     },
     {
-      "doc_num": "010-139108",
-      "doc_type": "LLC_CORP",
-      "filed": "09/08/2026",
-      "cat": "pre_foreclosure",
-      "cat_label": "LLC / Corp Owner",
-      "owner": "G & SG INVESTMENT LLC",
-      "grantee": "",
-      "amount": "185000.00",
-      "legal": "ESTERBROOK RD WOODWARD PK 3",
-      "prop_address": "4791 ESTERBROOK RD",
-      "prop_city": "Columbus",
-      "prop_state": "OH",
-      "prop_zip": "43229",
-      "mail_address": "PO BOX 9202 COPPELL TX 75019-9208",
-      "mail_city": "Coppell",
-      "mail_state": "TX",
-      "mail_zip": "75019",
-      "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=010-139108&UseSearch=no",
-      "flags": [
-        "LLC / corp owner",
-        "New this week"
-      ],
-      "score": 63
-    },
-    {
       "doc_num": "010-120213",
       "doc_type": "LLC_CORP",
       "filed": "09/11/2026",
@@ -14566,31 +12815,6 @@
       "mail_state": "CA",
       "mail_zip": "91768",
       "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=010-120213&UseSearch=no",
-      "flags": [
-        "LLC / corp owner",
-        "New this week"
-      ],
-      "score": 63
-    },
-    {
-      "doc_num": "010-120587",
-      "doc_type": "LLC_CORP",
-      "filed": "09/08/2026",
-      "cat": "pre_foreclosure",
-      "cat_label": "LLC / Corp Owner",
-      "owner": "NEXUS HOMES LLC",
-      "grantee": "",
-      "amount": "188000.00",
-      "legal": "MATTHIAS DR CLINTON ESTATES 3",
-      "prop_address": "1381 MATTHIAS DR",
-      "prop_city": "Columbus",
-      "prop_state": "OH",
-      "prop_zip": "43224",
-      "mail_address": "PO BOX 9202 COPPELL TX 75019-9208",
-      "mail_city": "Coppell",
-      "mail_state": "TX",
-      "mail_zip": "75019",
-      "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=010-120587&UseSearch=no",
       "flags": [
         "LLC / corp owner",
         "New this week"
@@ -14973,31 +13197,6 @@
       "score": 63
     },
     {
-      "doc_num": "025-009523",
-      "doc_type": "ABSENTEE",
-      "filed": "09/08/2026",
-      "cat": "pre_foreclosure",
-      "cat_label": "Absentee / Out-of-County Owner",
-      "owner": "DEVON BANK",
-      "grantee": "",
-      "amount": "460000.00",
-      "legal": "WOODSIDE GREEN SOUTH SECTION 4",
-      "prop_address": "591 WOODMARK RUN",
-      "prop_city": "Columbus",
-      "prop_state": "OH",
-      "prop_zip": "43230",
-      "mail_address": "PO BOX 9202 COPPELL TX 75019-9208",
-      "mail_city": "Coppell",
-      "mail_state": "TX",
-      "mail_zip": "75019",
-      "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=025-009523&UseSearch=no",
-      "flags": [
-        "Out-of-state owner",
-        "New this week"
-      ],
-      "score": 63
-    },
-    {
       "doc_num": "520-277476",
       "doc_type": "ABSENTEE",
       "filed": "09/09/2026",
@@ -15173,56 +13372,6 @@
       "score": 63
     },
     {
-      "doc_num": "060-006486",
-      "doc_type": "ABSENTEE",
-      "filed": "09/08/2026",
-      "cat": "pre_foreclosure",
-      "cat_label": "Absentee / Out-of-County Owner",
-      "owner": "CARDONA KATHRYN M; CARDONA-VELEZ BRAIN YAMILL",
-      "grantee": "",
-      "amount": "330000.00",
-      "legal": "FORRESTER WAY BROOK FARM",
-      "prop_address": "6599 FORRESTER WY",
-      "prop_city": "Columbus",
-      "prop_state": "OH",
-      "prop_zip": "43068",
-      "mail_address": "PO BOX 9202 COPPELL TX 75019-9208",
-      "mail_city": "Coppell",
-      "mail_state": "TX",
-      "mail_zip": "75019",
-      "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=060-006486&UseSearch=no",
-      "flags": [
-        "Out-of-state owner",
-        "New this week"
-      ],
-      "score": 63
-    },
-    {
-      "doc_num": "515-258092",
-      "doc_type": "ABSENTEE",
-      "filed": "09/08/2026",
-      "cat": "pre_foreclosure",
-      "cat_label": "Absentee / Out-of-County Owner",
-      "owner": "HOLDEN PATRICIA; FORD RICHELLE THOBURN",
-      "grantee": "",
-      "amount": "165000.00",
-      "legal": "WAGGONER PARK CONDOMINIUM",
-      "prop_address": "17 GREEN MILL 17",
-      "prop_city": "Columbus",
-      "prop_state": "OH",
-      "prop_zip": "43004",
-      "mail_address": "PO BOX 9202 COPPELL TX 75019-9208",
-      "mail_city": "Coppell",
-      "mail_state": "TX",
-      "mail_zip": "75019",
-      "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=515-258092&UseSearch=no",
-      "flags": [
-        "Out-of-state owner",
-        "New this week"
-      ],
-      "score": 63
-    },
-    {
       "doc_num": "515-259413",
       "doc_type": "ABSENTEE",
       "filed": "09/09/2026",
@@ -15266,31 +13415,6 @@
       "mail_state": "TX",
       "mail_zip": "75019",
       "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=515-259414&UseSearch=no",
-      "flags": [
-        "Out-of-state owner",
-        "New this week"
-      ],
-      "score": 63
-    },
-    {
-      "doc_num": "515-259439",
-      "doc_type": "ABSENTEE",
-      "filed": "09/08/2026",
-      "cat": "pre_foreclosure",
-      "cat_label": "Absentee / Out-of-County Owner",
-      "owner": "MADISON GENNIFER O",
-      "grantee": "",
-      "amount": "220000.00",
-      "legal": "WAGGONER PARK CONDOMINIUM 2ND AMD",
-      "prop_address": "176 PRESWICKE MILL",
-      "prop_city": "Columbus",
-      "prop_state": "OH",
-      "prop_zip": "43004",
-      "mail_address": "901 CORPORATE CENTER DR POMONA CA 91768-2642",
-      "mail_city": "Pomona",
-      "mail_state": "CA",
-      "mail_zip": "91768",
-      "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=515-259439&UseSearch=no",
       "flags": [
         "Out-of-state owner",
         "New this week"
@@ -15798,31 +13922,6 @@
       "score": 63
     },
     {
-      "doc_num": "100-005162",
-      "doc_type": "NO_HOMESTEAD",
-      "filed": "09/08/2026",
-      "cat": "judgment",
-      "cat_label": "No Homestead – Possible Tax Issue",
-      "owner": "HOHLBEIN BONNIE R",
-      "grantee": "",
-      "amount": "135150.00",
-      "legal": "160 GLEN CIRCLE WORTHINGLEN CONDO",
-      "prop_address": "160 GLEN CR 17",
-      "prop_city": "Columbus",
-      "prop_state": "OH",
-      "prop_zip": "43085",
-      "mail_address": "160 GLEN CIR WORTHINGTON OH 43085-4008",
-      "mail_city": "Worthington",
-      "mail_state": "OH",
-      "mail_zip": "43085",
-      "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=100-005162&UseSearch=no",
-      "flags": [
-        "No homestead exemption",
-        "New this week"
-      ],
-      "score": 63
-    },
-    {
       "doc_num": "100-003311",
       "doc_type": "ABSENTEE",
       "filed": "09/10/2026",
@@ -15841,31 +13940,6 @@
       "mail_state": "TX",
       "mail_zip": "75019",
       "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=100-003311&UseSearch=no",
-      "flags": [
-        "Out-of-state owner",
-        "New this week"
-      ],
-      "score": 63
-    },
-    {
-      "doc_num": "010-130367",
-      "doc_type": "ABSENTEE",
-      "filed": "09/08/2026",
-      "cat": "pre_foreclosure",
-      "cat_label": "Absentee / Out-of-County Owner",
-      "owner": "CALDWELL BERNARD D; CALDWELL CARLYN",
-      "grantee": "",
-      "amount": "279900.00",
-      "legal": "KARL RD KARL MEADOWS",
-      "prop_address": "6097 KARL RD",
-      "prop_city": "Columbus",
-      "prop_state": "OH",
-      "prop_zip": "43229",
-      "mail_address": "PO BOX 9202 COPPELL TX 75019-9208",
-      "mail_city": "Coppell",
-      "mail_state": "TX",
-      "mail_zip": "75019",
-      "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=010-130367&UseSearch=no",
       "flags": [
         "Out-of-state owner",
         "New this week"
@@ -15918,56 +13992,6 @@
       "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=010-153384&UseSearch=no",
       "flags": [
         "No homestead exemption",
-        "New this week"
-      ],
-      "score": 63
-    },
-    {
-      "doc_num": "600-176861",
-      "doc_type": "RENTAL",
-      "filed": "09/08/2026",
-      "cat": "lien",
-      "cat_label": "Non-Owner-Occupied Rental",
-      "owner": "HAAKAYELLE GEORGINA",
-      "grantee": "",
-      "amount": "425000.00",
-      "legal": "MAGNOLIA BLOSSOM STRAWBERRY FARMS 4",
-      "prop_address": "4936 - 4938 MAGNOLIA BLOSSOM BL",
-      "prop_city": "Columbus",
-      "prop_state": "OH",
-      "prop_zip": "43230",
-      "mail_address": "8341 DUNNBURY CIR POWELL OH 43065-7410",
-      "mail_city": "Powell",
-      "mail_state": "OH",
-      "mail_zip": "43065",
-      "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=600-176861&UseSearch=no",
-      "flags": [
-        "Non-owner-occupied",
-        "New this week"
-      ],
-      "score": 63
-    },
-    {
-      "doc_num": "110-003175",
-      "doc_type": "ABSENTEE",
-      "filed": "09/08/2026",
-      "cat": "pre_foreclosure",
-      "cat_label": "Absentee / Out-of-County Owner",
-      "owner": "PHAN CONSON V; LUU DIEP NT",
-      "grantee": "",
-      "amount": "292000.00",
-      "legal": "OSLO DR H C HUBER PLAT 48 SEC 2 1248",
-      "prop_address": "5527 OSLO DR",
-      "prop_city": "Columbus",
-      "prop_state": "OH",
-      "prop_zip": "43081",
-      "mail_address": "PO BOX 9202 COPPELL TX 75019-9208",
-      "mail_city": "Coppell",
-      "mail_state": "TX",
-      "mail_zip": "75019",
-      "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=110-003175&UseSearch=no",
-      "flags": [
-        "Out-of-state owner",
         "New this week"
       ],
       "score": 63
@@ -16548,31 +14572,6 @@
       "score": 63
     },
     {
-      "doc_num": "080-008290",
-      "doc_type": "ABSENTEE",
-      "filed": "09/08/2026",
-      "cat": "pre_foreclosure",
-      "cat_label": "Absentee / Out-of-County Owner",
-      "owner": "MILLS JEFFREY",
-      "grantee": "",
-      "amount": "600000.00",
-      "legal": "BEACHSIDE DRIVE RESERVE S LAKESIDE FOREST  .244 AC",
-      "prop_address": "482 BEACHSIDE DR",
-      "prop_city": "Columbus",
-      "prop_state": "OH",
-      "prop_zip": "43081",
-      "mail_address": "PO BOX 9202 COPPELL TX 75019-9208",
-      "mail_city": "Coppell",
-      "mail_state": "TX",
-      "mail_zip": "75019",
-      "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=080-008290&UseSearch=no",
-      "flags": [
-        "Out-of-state owner",
-        "New this week"
-      ],
-      "score": 63
-    },
-    {
       "doc_num": "080-009738",
       "doc_type": "ABSENTEE",
       "filed": "09/09/2026",
@@ -17098,31 +15097,6 @@
       "score": 63
     },
     {
-      "doc_num": "080-008873",
-      "doc_type": "NO_HOMESTEAD",
-      "filed": "09/08/2026",
-      "cat": "judgment",
-      "cat_label": "No Homestead – Possible Tax Issue",
-      "owner": "SCHIRTZINGER CATHY",
-      "grantee": "",
-      "amount": "340000.00",
-      "legal": "GEMSTONE SQ W BROOKSTONE SEC ONE",
-      "prop_address": "111 BROOKSTONE BL",
-      "prop_city": "Columbus",
-      "prop_state": "OH",
-      "prop_zip": "43081",
-      "mail_address": "111 BROOKSTONE BLVD WESTERVILLE OH 43081-4559",
-      "mail_city": "Westerville",
-      "mail_state": "OH",
-      "mail_zip": "43081",
-      "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=080-008873&UseSearch=no",
-      "flags": [
-        "No homestead exemption",
-        "New this week"
-      ],
-      "score": 63
-    },
-    {
       "doc_num": "010-089851",
       "doc_type": "LLC_CORP",
       "filed": "09/10/2026",
@@ -17168,31 +15142,6 @@
       "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=184-002201&UseSearch=no",
       "flags": [
         "No homestead exemption",
-        "New this week"
-      ],
-      "score": 63
-    },
-    {
-      "doc_num": "152-001615",
-      "doc_type": "ABSENTEE",
-      "filed": "09/08/2026",
-      "cat": "pre_foreclosure",
-      "cat_label": "Absentee / Out-of-County Owner",
-      "owner": "CHAUDHARY YOUSAF",
-      "grantee": "",
-      "amount": "310000.00",
-      "legal": "GARRARD DRIVE MULBERRY GROVE",
-      "prop_address": "4054 GARRARD DR",
-      "prop_city": "Columbus",
-      "prop_state": "OH",
-      "prop_zip": "43207",
-      "mail_address": "PO BOX 9202 COPPELL TX 75019-9208",
-      "mail_city": "Coppell",
-      "mail_state": "TX",
-      "mail_zip": "75019",
-      "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=152-001615&UseSearch=no",
-      "flags": [
-        "Out-of-state owner",
         "New this week"
       ],
       "score": 63
@@ -17391,56 +15340,6 @@
       "mail_state": "OH",
       "mail_zip": "43228",
       "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=560-316162&UseSearch=no",
-      "flags": [
-        "Non-owner-occupied",
-        "New this week"
-      ],
-      "score": 63
-    },
-    {
-      "doc_num": "060-009664",
-      "doc_type": "LLC_CORP",
-      "filed": "09/08/2026",
-      "cat": "pre_foreclosure",
-      "cat_label": "LLC / Corp Owner",
-      "owner": "NVR INC; GUDETA OBO",
-      "grantee": "",
-      "amount": "282730.00",
-      "legal": "WILSON RIDGE TOWNHOME DEVELOPMENT LOT 9-D",
-      "prop_address": "7782 MEISNER CT",
-      "prop_city": "Columbus",
-      "prop_state": "OH",
-      "prop_zip": "43068",
-      "mail_address": "8800 LYRA DR STE 500 COLUMBUS OH 43240-2100",
-      "mail_city": "Columbus",
-      "mail_state": "OH",
-      "mail_zip": "43240",
-      "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=060-009664&UseSearch=no",
-      "flags": [
-        "LLC / corp owner",
-        "New this week"
-      ],
-      "score": 63
-    },
-    {
-      "doc_num": "010-319670",
-      "doc_type": "RENTAL",
-      "filed": "09/08/2026",
-      "cat": "lien",
-      "cat_label": "Non-Owner-Occupied Rental",
-      "owner": "CUNNINGHAM JARNIE STEPHEN",
-      "grantee": "",
-      "amount": "685000.00",
-      "legal": "HARRIS FLATS & PERRY TOWNHOMES AT JEFFREY PARK CONDOMINIUM 3RD AMD",
-      "prop_address": "278 DICKENSON ST",
-      "prop_city": "Columbus",
-      "prop_state": "OH",
-      "prop_zip": "43215",
-      "mail_address": "842 N 4TH ST STE 200 COLUMBUS OH 43215-1584",
-      "mail_city": "Columbus",
-      "mail_state": "OH",
-      "mail_zip": "43215",
-      "clerk_url": "https://property.franklincountyauditor.com/_web/datalets/datalet.aspx?pin=010-319670&UseSearch=no",
       "flags": [
         "Non-owner-occupied",
         "New this week"
